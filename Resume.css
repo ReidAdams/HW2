@@ -1,0 +1,29 @@
+body
+	{
+		color: white;
+		background-color: blue;
+		
+	}
+	
+
+div {
+	align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.H1 { text-align:center; font-family:Arial; font-size: 24pt.; text-decoration:bold;}
+.p1 { text-align:center; font-family:Arial; font-size: 12pt;}
+.H2 { text-align:left; font-family:Arial; font-size: 18pt; text-decoration:bold; font-style:italic; line-height: 36 pt;}
+.p2 { text-align:left; font-size: 14pt; font-family:Arial; line-height: 24 pt;}
+.H3 { text-align:left; font-size: 14pt; font-family:Arial; text-decoration:bold;}
+.ul { font-size: 16pt; line-height: 16pt; line-height: 20pt;}
+.H4 { font-size: 13pt; font-family:Arial; text-decoration:bold;}
+.H5 { font-size: 36pt; font-family:Arial; color: blue}
